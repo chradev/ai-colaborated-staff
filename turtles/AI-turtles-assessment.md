@@ -18,7 +18,7 @@
 | <img src=https://chradev.github.io/ai-colaborated-staff/turtles/photo-D1.jpeg /> | **D 1** | Голям юноша | 26 Jul 2026 | Неизвестен | **4 – 6 години** | Малко по-едро и напреднало в развитието си от C1 и F1. |
 | <img src=https://chradev.github.io/ai-colaborated-staff/turtles/photo-C1.jpeg /> | **C 1** | Малък юноша | 04 Aug 2026 | Неизвестен | **3 – 5 години** | Много тъмна централна част на плочките и добавена бяла маркировка. |
 | <img src=https://chradev.github.io/ai-colaborated-staff/turtles/photo-A1-u.jpeg /> | **А 1** | 18 см / Майка | 11 Aug 2026 | **Женска** ♀️ | **12 – 15 години** | Едър, зрял екземпляр. Има стара, напълно зараснала и калцирала костна травма в задната дясна част. |
-| <img src=https://chradev.github.io/ai-colaborated-staff/turtles/photo-B1-u.jpeg /><img src=https://chradev.github.io/ai-colaborated-staff/turtles/photo-B1-d.jpeg /> | **B 1** | 14 см / Баща | 11 Aug 2026 | **Мъжки** ♂️ | **12 – 15 години** | Напълно съзрял мъжки. Вдлъбнат пластрон за чифтосване, дълга и дебела опашка. |
+| <img src=https://chradev.github.io/ai-colaborated-staff/turtles/photo-B1-u.jpeg width=50% /><img src=https://chradev.github.io/ai-colaborated-staff/turtles/photo-B1-d.jpeg width=50% /> | **B 1** | 14 см / Баща | 11 Aug 2026 | **Мъжки** ♂️ | **12 – 15 години** | Напълно съзрял мъжки. Вдлъбнат пластрон за чифтосване, дълга и дебела опашка. |
 
 
 ### костенурката маркирана с надпис „А 1“
