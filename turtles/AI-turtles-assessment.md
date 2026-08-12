@@ -19,6 +19,7 @@
 | <img src=https://chradev.github.io/ai-colaborated-staff/turtles/photo-C1.jpeg /> | **C 1** | Малък юноша | 04 Aug 2026 | Неизвестен | **3 – 5 години** | Много тъмна централна част на плочките и добавена бяла маркировка. |
 | <img src=https://chradev.github.io/ai-colaborated-staff/turtles/photo-A1-u.jpeg width=50% /><img src=https://chradev.github.io/ai-colaborated-staff/turtles/photo-A1-d.jpeg width=50% /> | **А 1** | 18 см / Майка | 11 Aug 2026 | **Женска** ♀️ | **12 – 15 години** | Едър, зрял екземпляр. Има стара, напълно зараснала и калцирала костна травма в задната дясна част. |
 | <img src=https://chradev.github.io/ai-colaborated-staff/turtles/photo-B1-u.jpeg width=50% /><img src=https://chradev.github.io/ai-colaborated-staff/turtles/photo-B1-d.jpeg width=50% /> | **B 1** | 14 см / Баща | 11 Aug 2026 | **Мъжки** ♂️ | **12 – 15 години** | Напълно съзрял мъжки. Вдлъбнат пластрон за чифтосване, дълга и дебела опашка. |
+| <img src=photo-X1.jpeg /> | **X 1** | 10 см / Юноша | 12 Aug 2026 | **Женска** ♀️ | **6 – 8 години** | **Загинала** 🕯️. Открита след пожар на 5-6 август. Тежки изгаряния по карапакса. |
 
 
 ### костенурката маркирана с надпис „А 1“
