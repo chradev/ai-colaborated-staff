@@ -163,7 +163,7 @@
 
 ----------
 
-<img src=https://chradev.github.io/ai-colaborated-staff/turtles/photo-A1-B1-free.jpeg />
+<img src=https://chradev.github.io/ai-colaborated-staff/turtles/photo-A1-B1-free.jpeg width=50% aligment=left />
 
 ----------
 
